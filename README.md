@@ -1,1 +1,1 @@
-# CodeAlpha_Word_Counter
+Word_Counter
